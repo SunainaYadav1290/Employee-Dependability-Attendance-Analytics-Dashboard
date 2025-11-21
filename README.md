@@ -12,6 +12,6 @@ Calculated absenteeism rate, adherence %, late login %, early logout %, and over
 
 Built a Reliability Score model combining multiple dependability KPIs.
 
-Visualized dependability trends in Power BI/Excel with actionable alerts.
+Visualized dependability trends in Power BI and Excel with actionable alerts.
 
 Identified high-risk employees and recommended interventions based on analytics
