@@ -15,3 +15,21 @@ Built a Reliability Score model combining multiple dependability KPIs.
 Visualized dependability trends in Power BI and Excel with actionable alerts.
 
 Identified high-risk employees and recommended interventions based on analytics
+
+Insights:
+Total Employees -28 
+Average Adherence-   83%  
+Total Overtime Hours-   15
+Average Reliability-   99.1%
+Absenteeism-   21%
+Late Login-  15%
+Early Logout-   7%
+
+
+
+
+
+
+
+
+
